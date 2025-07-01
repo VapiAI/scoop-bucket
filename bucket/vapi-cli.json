@@ -1,12 +1,12 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VapiAI/cli/releases/download/v0.0.5/cli_Windows_x86_64.zip",
+            "url": "https://github.com/VapiAI/cli/releases/download/v0.0.6/cli_Windows_x86_64.zip",
             "bin": [
                 "vapi.exe"
             ],
-            "hash": "93d160713a6e6f928cf71ac514c9628cabd63a127599094bcaf836e0ef32be91"
+            "hash": "3cdfcd26b9fa4e027935be4212f084a0d9f017a55af2924a5a2bbdbf6f51c7cf"
         }
     },
     "homepage": "https://vapi.ai",
