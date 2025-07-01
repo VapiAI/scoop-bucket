@@ -1,0 +1,15 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/VapiAI/cli/releases/download/v0.0.5/cli_Windows_x86_64.zip",
+            "bin": [
+                "vapi.exe"
+            ],
+            "hash": "93d160713a6e6f928cf71ac514c9628cabd63a127599094bcaf836e0ef32be91"
+        }
+    },
+    "homepage": "https://vapi.ai",
+    "license": "MIT",
+    "description": "Voice AI for developers - Vapi CLI"
+}
